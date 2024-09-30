@@ -1,1 +1,1 @@
-# rock_paper_scissors-
+# Project: Rock Paper Scissors from @theodinproject by me
